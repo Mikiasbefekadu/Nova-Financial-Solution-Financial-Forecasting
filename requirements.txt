@@ -4,3 +4,5 @@ pandas
 scikit-learn
 wordcloud
 nltk
+pynance
+ta-lib
